@@ -4,3 +4,8 @@ python-dotenv
 openai
 langchain
 langchain-openai
+flask
+fastapi
+uvicorn
+python-multipart
+"pydantic[email]"
