@@ -48,3 +48,4 @@ pip install -r requirements.txt
 venv\Scripts\activate
 python main.py
 python app.py
+```
