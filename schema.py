@@ -5,7 +5,7 @@ class JobItem(BaseModel):
     company: str
     designation: str
     duration_years: Optional[float] = Field(None, description="Duration in years")
-
+#ressume schem
 class ResumeSchema(BaseModel):
     name: str
     email: EmailStr
